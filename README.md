@@ -1,3 +1,4 @@
+<a href="https://www.buymeacoffee.com/0xDTC"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a knowledge&emoji=📖&slug=0xDTC&button_colour=FF5F5F&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
 # Zip and Upload Automation Script
 
 This script creates a symbolic link to a specified directory, compresses it into a zip file, and uploads the zip file to a target server for processing. This automation is useful for quickly zipping files and performing file upload operations on specific target servers.
